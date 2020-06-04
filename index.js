@@ -10,6 +10,6 @@ function johnLennonFacts(array){
   var i = 0;
   while (i > array.length) {
     return `${array[i]}!!!`
-    array++
+    i++
   }
 }
